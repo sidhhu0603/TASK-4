@@ -875,7 +875,7 @@ opacity: .8;
     }
 
     .home-content h1 {
-        margin-top: 130%;
+        margin-top: 100%;
         font-size: 36px;
     }
 
@@ -894,7 +894,7 @@ opacity: .8;
     }
 
     .home-sci {
-        bottom: -230px;
+        bottom: -130px;
     }
 
     .home-imgHover {
