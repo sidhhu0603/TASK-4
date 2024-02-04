@@ -904,6 +904,14 @@ opacity: .8;
         text-align: center;
     }
 
+    .btn-box a {
+        margin-right: 10px; /* Adjust the value according to your preference */
+    }
+
+    .intern-box .btn-box .lor{
+       padding-top: 5rem;
+    }
+
     .card {
         width: 100%;
         height: auto;
