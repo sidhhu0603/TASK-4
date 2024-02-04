@@ -901,7 +901,7 @@ opacity: .8;
     .intern-box,
     .content {
         padding-left: 1rem;
-        text-align: justify;
+        text-align: center;
     }
 
     .card {
